@@ -1,4 +1,4 @@
-package co.copperhead.updater;
+package com.android.updater;
 
 import android.app.job.JobInfo;
 import android.app.job.JobParameters;
